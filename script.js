@@ -34,10 +34,10 @@ function buildRow(hour) {
 
     var textarea = $('<textarea id="" class="description col-10">')
     textarea.addClass(timeClass)
-    textarea.val(schedule[hour])
+    // textarea.val(schedule[hour])
 
     var saveBtn = $('<button class="saveBtn col-1">')
-    saveBtn.click(handleClick)
+    // saveBtn.click(handleClick)
 
     var icon = $('<i class="fas fa-save">')
 
