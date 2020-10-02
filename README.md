@@ -1,4 +1,4 @@
-# work-day-scheduler-
+# work-day-scheduler
 
 A work day scheduler to organize your busy work days by the hour.
 Link: <a href="https://nataliegarcia-8.github.io/work-day-scheduler/"> Click to view Work Day Scheduler</a>
